@@ -23,3 +23,22 @@ Aplikasi latihan untuk awal perkuliahan pemrograman mobile.
 Nama panggilan / akun GitHub: Agus Wredhi / iwayanaguswredhiputra
 ## Status
 Proyek awal perkuliahan.
+
+# Aplikasi Pertama - Mobile Praktikum
+
+## Tujuan
+Aplikasi ini dibuat sebagai proyek pembelajaran dan praktikum pemrograman perangkat bergerak untuk memahami dasar-dasar pengembangan aplikasi menggunakan framework Flutter.
+
+## Rencana Fitur
+1. Halaman Beranda (Home) dengan tampilan antarmuka yang interaktif.
+2. Fitur navigasi antar halaman (Routing).
+3. Integrasi state management sederhana untuk pengelolaan data aplikasi.
+
+## Cara Menjalankan
+Pastikan Anda sudah menginstal Flutter SDK, lalu jalankan perintah berikut di terminal:
+```bash
+# Mengunduh dependensi proyek
+flutter pub get
+
+# Menjalankan aplikasi di emulator atau perangkat fisik
+flutter run
